@@ -2,7 +2,7 @@ String.prototype.replaceAt = function(index, character) {
     return this.substring(0, index) + character + this.substring(index + character.length);
 };
 
-const palabras = ['casa', 'perro', 'gato', 'elefante'];
+const palabras = ['casa', 'perro', 'gato', 'elefante','blanca','piercing'];
 
 const palabra = palabras[Math.floor(Math.random() * palabras.length)];
 
