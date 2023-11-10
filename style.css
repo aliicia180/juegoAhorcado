@@ -3,3 +3,10 @@
 	width:307px;
 	background-image: url('./hangman-game_pm-1320x273.webp')
 }
+body { background-image: url('https://img.freepik.com/vector-gratis/plantilla-fondo-estampado-acuarela-rosa-verde_53876-115317.jpg?w=826&t=st=1699622233~exp=1699622833~hmac=b839e5a89e3235fb75e1a303856c936426f73b5c76b2ee133404465fd5a54ad1');
+}
+body {
+    background-repeat: no-repeat;
+        }
+body { background-size:1400px 700px;}
+	 h1 { color : red }
